@@ -13,3 +13,7 @@ pom.xml.asc
 .hg/
 .clj-kondo/
 .direnv/
+.lsp/
+.vscode/
+.metals/
+.calva/
